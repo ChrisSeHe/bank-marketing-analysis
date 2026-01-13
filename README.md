@@ -12,8 +12,11 @@ Priorisierung von Kundenkontakten.
 Verwendet wird der Datensatz `bank-additional-full` aus dem
 UCI Machine Learning Repository.
 
-Bitte lade `bank-additional-full.csv` aus dem UCI Repository herunter 
-und lege die Datei unter `data/raw/` ab.
+Der Datensatz kann hier heruntergeladen werden:
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+Bitte lade die Datei `bank-additional-full.csv` herunter und lege sie lokal
+unter `data/raw/` ab.
 
 ## Vorgehen
 - Explorative Datenanalyse und Prüfung der Datenqualität
